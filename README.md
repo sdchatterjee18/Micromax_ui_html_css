@@ -51,5 +51,3 @@ As a beginner, this project helped me learn and practice:
 (Scrolling through the website to showcase the UI and hover effects)
 
 ---
-
-## 📂 Project Structure
